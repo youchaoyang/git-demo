@@ -7,6 +7,6 @@ package com.youcy.gitDemo.gitTest;
  */
 public class GitTest {
     public static void main(String[] args) {
-
+        System.out.println("这是一段测试");
     }
 }
