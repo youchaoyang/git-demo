@@ -9,5 +9,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("这是一段测试");
         System.out.println("这是二段测试");
+        System.out.println("这是四段测试");
     }
 }
