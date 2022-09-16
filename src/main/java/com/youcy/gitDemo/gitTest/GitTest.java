@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("这是二段测试");
         System.out.println("这是四段测试");
         System.out.println("这是第六段测试");
+        System.out.println("这是第七段测试");
     }
 }
