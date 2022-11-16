@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("这是最新的测试");
 
         System.out.println("这是soft的测试");
+
+        System.out.println("这是最新的测试");
     }
 }
